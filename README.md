@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi !! I'm Laurent TRINCO 👋
 
 - 🌱 I’m currently learning React JS with OpenClassRooms
 <!--
