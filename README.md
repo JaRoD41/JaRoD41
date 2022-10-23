@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React JS with OpenClassRooms
 
 <h1 align="center">Hi 👋, I'm JaRoD41</h1>
-<h3 align="center">A passionate full stack developer learning from France</h3>
+<h3 align="center">A passionate full stack developer student from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JaRoD41&label=Profile%20views&color=0e75b6&style=flat" alt="JaRoD41" /> </p>
 
@@ -20,7 +20,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaRoD41&hide=stars,issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/JaRoD41/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JaRoD41&show_icons=true&locale=en" alt="JaRoD41" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JaRoD41&hide=stars,issues,contribs&show_icons=true&theme=tokyonight" alt="JaRoD41" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaRoD41&layout=compact)](https://github.com/JaRoD41/github-readme-stats)
 
