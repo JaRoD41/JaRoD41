@@ -20,8 +20,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaRoD41&hide=stars,issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/JaRoD41/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JaRoD41&hide=stars,issues,contribs&show_icons=true&theme=tokyonight" alt="JaRoD41" /></p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaRoD41&layout=compact)](https://github.com/JaRoD41/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JaRoD41&" alt="JaRoD41" /></p>
