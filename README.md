@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning React JS with OpenClassRooms
 <!--
 **JaRoD41/JaRoD41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
