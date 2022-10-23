@@ -1,13 +1,5 @@
-### Hi !! I'm Laurent TRINCO 👋
-
-- 🌱 I’m currently learning React JS with OpenClassRooms
-
 <h1 align="center">Hi 👋, I'm JaRoD41</h1>
 <h3 align="center">A passionate full stack developer student from France</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JaRoD41&label=Profile%20views&color=0e75b6&style=flat" alt="JaRoD41" /> </p>
-
-
 
 - 🌱 I’m currently learning **React JS**
 
@@ -24,7 +16,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JaRoD41&" alt="JaRoD41" /></p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JaRoD41&label=Profile%20views&color=0e75b6&style=flat" alt="JaRoD41" /> </p>
 <!--
 **JaRoD41/JaRoD41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
