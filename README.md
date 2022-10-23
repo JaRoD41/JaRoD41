@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning React JS with OpenClassRooms
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaRoD41&hide=stars,issues,contribs)](https://github.com/JaRoD41/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaRoD41&hide=stars,issues,contribs&show_icons=true)](https://github.com/JaRoD41/github-readme-stats)
 
 <!--
 **JaRoD41/JaRoD41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
