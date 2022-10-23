@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm JaRoD41</h1>
 <h3 align="center">A passionate full stack developer student from France</h3>
 
-- 🌱 I’m currently learning **React JS**
-
 <h3 align="left">Connect with me: https://www.linkedin.com/in/laurent-t-88a45374/</h3>
 <p align="left">
 </p>
