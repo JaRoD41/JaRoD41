@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm JaRoD41</h1>
 <h3 align="center">A passionate full stack developer student from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JaRoD41&label=Profile%20views&color=0e75b6&style=flat" alt="JaRoD41" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JaRoD41" alt="JaRoD41" /></a> </p>
 
