@@ -1,5 +1,6 @@
 # 💫 About Me:
-Full stack React JS web dev student from France
+Jack of all trades profile and assumed HPI (or almost...), I try my best to use this singularity in order to flourish in this too often obtuse world.
+In training to obtain a Bachelor/Master 1 (BAC +4) in the development of JS React applications, currently, I feed my mind and accumulate new skills so I can move forward and finally find the right path and my true reason for being.
 
 
 ## 🌐 Links:
