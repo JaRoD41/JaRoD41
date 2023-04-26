@@ -6,9 +6,17 @@ In training to obtain a Bachelor/Master 1 (BAC +4) in the development of JS Reac
 [![GitHub Streak](https://streak-stats.demolab.com?user=JaRoD41&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,express,figma,git,github,html,js,jest,materialui,mongodb,nextjs,nodejs,ps,postman,react,sass,styledcomponents,vercel,vite,vscode)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,express,figma,git,github,html,js,jest,materialui,mongodb,nextjs,nodejs,ps,postman" />
+    <img src="https://skillicons.dev/icons?i=react,sass,styledcomponents,vercel,vite,vscode" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on testing and debugging a SaaS using Jest
+
+---
 
 ![JaRoD41's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaRoD41&theme=tokyonight&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaRoD41&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
