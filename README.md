@@ -14,7 +14,7 @@ In training to obtain a Bachelor/Master 1 (BAC +4) in the development of JS Reac
   </a>
 </p>
 
-- 🔭 I’m currently working on testing and debugging a SaaS using Jest
+- 🔭 I’m currently working on planning and building an online schoolwork application 🎒 📚 🔬 ⚗️ 🎓
 
 ---
 
