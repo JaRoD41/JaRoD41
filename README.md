@@ -1,6 +1,5 @@
 # 💫 About Me:
-Jack of all trades profile and assumed HPI (or almost...), I try my best to use this singularity in order to flourish in this too often obtuse world.
-In training to obtain a Bachelor/Master 1 (BAC +4) in the development of JS React applications, currently, I feed my mind and accumulate new skills so I can move forward and finally find the right path and my true reason for being.
+Jack of all trades profile, in training to obtain a Bachelor/Master 1 (BAC +4) in the development of JS React applications, currently, I feed my mind and accumulate new skills so I can move forward and finally find the right path and my true reason for being.
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JaRoD41&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
