@@ -19,17 +19,6 @@ Jack of all trades profile, in training to obtain a Bachelor/Master 1 (BAC +4) i
 
 ![JaRoD41's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaRoD41&theme=tokyonight&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaRoD41&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
-## 🌐 Links:
-<dt>
-<a href="https://www.linkedin.com/in/laurenttrinco/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-</dt>
-<dt>
-<a href="https://www.flickr.com/photos/136835483@N04/">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Flickr&color=0063DC&logo=Flickr&logoColor=FFFFFF&label=" alt="flickr">
-</a>
-</dt>
 
 ![]([https://github-readme-stats.vercel.app](https://kasa-git-main-jarod41.vercel.app/)/api/top-langs/?username=JaRoD41&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
