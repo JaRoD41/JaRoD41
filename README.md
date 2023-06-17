@@ -13,7 +13,7 @@ Jack of all trades profile, in training to obtain a Bachelor/Master 1 (BAC +4) i
   </a>
 </p>
 
-- 🔭 I’m currently working on planning and building an online schoolwork application 🎒 📚 🔬 ⚗️ 🎓
+- 🔭 I’m currently working on creating a React sport training analytics dashboard application 💪🏻🏃🏼‍♂️🍳🏋🏼🏅📊📈
 
 ---
 
