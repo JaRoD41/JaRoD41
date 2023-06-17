@@ -8,8 +8,8 @@ Jack of all trades profile, in training to obtain a Bachelor/Master 1 (BAC +4) i
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,d3,express,figma,git,github,html,js,jest,materialui,mongodb,nextjs,nodejs,ps,postman" />
-    <img src="https://skillicons.dev/icons?i=react,sass,styledcomponents,vercel,vite,vscode" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,express,figma,git,github,html,js,jest,materialui,mongodb,nextjs,nodejs,ps,postman" />
+    <img src="https://skillicons.dev/icons?i=react,sass,d3,styledcomponents,vercel,vite,vscode" />
   </a>
 </p>
 
