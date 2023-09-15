@@ -13,7 +13,7 @@ Jack of all trades profile, in training to obtain a Bachelor of Honor / Master 1
   </a>
 </p>
 
-- 🔭 I’m currently working on creating a Next JS / Typescript Bank application 📈🏦💻💶💳
+- 🔭 I’m currently working on creating a React / Typescript Bank application 📈🏦💻💶💳
 
 ---
 
