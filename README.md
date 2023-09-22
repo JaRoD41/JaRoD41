@@ -20,8 +20,10 @@ Jack of all trades profile, in training to obtain a Bachelor of Honor / Master 1
 
 ---
 
+<p align="center">
 ![JaRoD41's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaRoD41&theme=tokyonight&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaRoD41&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
+</p>
 
 ![]([https://github-readme-stats.vercel.app](https://kasa-git-main-jarod41.vercel.app/)/api/top-langs/?username=JaRoD41&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
