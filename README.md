@@ -2,6 +2,7 @@
 Jack of all trades profile, in training to obtain a Bachelor of Honor / Master 1 (BAC +4) in the development of JS React applications, currently, I feed my mind and accumulate new skills so I can move forward and finally find the right path and my true reason for being.
 
 
+## 🏆 GitHub Streak
 <p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=JaRoD41&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </p>
