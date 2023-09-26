@@ -7,6 +7,7 @@ Jack of all trades profile, in training to obtain a Bachelor of Honor / Master 1
 [![GitHub Streak](https://streak-stats.demolab.com?user=JaRoD41&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
+
 # 💻 Tech Stack:
 
 <p align="center">
@@ -16,7 +17,7 @@ Jack of all trades profile, in training to obtain a Bachelor of Honor / Master 1
   </a>
 </p>
 
-- 🔭 I’m currently working on creating a React / Typescript Bank application 📈🏦💻💶💳
+- 🔭 I’m currently working on converting an old jQuery HR App into a brand new NextJS / Typescript app 🤘🏻
 
 ---
 
