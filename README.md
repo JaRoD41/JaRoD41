@@ -17,7 +17,7 @@ Jack of all trades profile, in training to obtain a Bachelor of Honor / Master 1
   </a>
 </p>
 
-- 🔭 I’m currently working on converting an old jQuery HR App into a brand new NextJS / Typescript app 🤘🏻
+- 🔭 I’m currently working on converting an old jQuery HR App into a brand new React JS app 🤘🏻
 
 ---
 
