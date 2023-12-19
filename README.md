@@ -17,7 +17,7 @@ Jack of all trades profile, in training to obtain a Bachelor of Honor / Master 1
   </a>
 </p>
 
-- 🔭 I’m currently working on optimizing my personal website 🤘🏻
+- 🔭 I’m currently working on optimizing and migrating an SQL Server DB 🤘🏻
 
 ---
 
