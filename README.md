@@ -12,8 +12,8 @@ Jack of all trades profile, in training to obtain a Bachelor of Honor / Master 1
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,express,firebase,figma,git,github,html,js,jest,materialui,mongodb,nextjs,nodejs,ps,postman" />
-    <img src="https://skillicons.dev/icons?i=react,sass,d3,docker,mysql,redux,styledcomponents,ts,tailwind,vercel,vite,vscode" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,express,firebase,figma,git,github,html,js,jest,materialui,mongodb,nextjs,nodejs,ps" />
+    <img src="https://skillicons.dev/icons?i=react,sass,d3,docker,mysql,postman,redux,styledcomponents,ts,tailwind,vercel,vite,vscode" />
   </a>
 </p>
 
