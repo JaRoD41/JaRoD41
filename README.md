@@ -17,7 +17,7 @@ Jack of all trades profile, in training to obtain a Bachelor of Honor / Master 1
   </a>
 </p>
 
-- 🔭 I’m currently working on optimizing and migrating an SQL Server DB 🤘🏻
+- 🔭 I’m currently working on optimizing, migrating an SQL Server DB and creating a PHP Rest API and a React SaaS 🤘🏻
 
 ---
 
