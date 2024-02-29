@@ -1,5 +1,5 @@
 # 💫 About Me:
-Jack of all trades profile, in training to obtain a Bachelor of Honor / Master 1 (BAC +4) in the development of JS React applications, currently, I feed my mind and accumulate new skills so I can move forward and finally find the right path and my true reason for being.
+Jack of all trades profile, currently, I feed my mind and accumulate new skills so I can move forward and finally find the right path and my true reason for being.
 
 
 ## 🏆 GitHub Streak
